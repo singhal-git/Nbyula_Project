@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+#success {
+    display: none;
+}
+
+#danger{
+    display: none;
+}
+
+body{
+    background-color: #eee;
+}
+
+.row{
+    margin-top: 1vh;
+}
+
+#register{
+    background-color: white;
+    min-height: 500px;
+}
+label{
+    margin-top: 1.5vh;
+}
+
+button.btn.btn-info {
+    margin-bottom: 2vh;
+}
+.registration{
+    margin-top: 3vh;
+    font-size: 45px;
+ 
+}
